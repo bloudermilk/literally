@@ -1,0 +1,16 @@
+
+
+
+
+
+                          What is a literal?
+
+    "In computer science, a literal is a notation for representing a fixed
+     value in source code. In contrast to literals, variables or constants
+       are symbols that can take on one of a class of fixed values..."
+
+
+
+
+
+Source: Wikipedia - http://en.wikipedia.org/wiki/Literal_(computer_programming)
