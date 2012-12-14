@@ -1,6 +1,6 @@
 # Ruby Made Simple, Literally
 
-My slides from a 5 minute beginner-level talk I gave on Ruby literals
+My slides from a 5 minute beginner-level talk I gave on Ruby literals.
 
 ## Presentation mode
 
