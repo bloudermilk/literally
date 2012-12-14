@@ -15,6 +15,7 @@ If you have `vim` and `bash` installed on your machine you can use a pseudo
 
 * [ruby-doc](http://www.ruby-doc.org/docs/ProgrammingRuby/html/language.html)
 * [wikibooks](http://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Literals)
+* [ascii_cats](http://user.xmission.com/~emailbox/ascii_cats.htm)
 
 ## License
 
