@@ -8,7 +8,7 @@ If you have `vim` and `bash` installed on your machine you can use a pseudo
 "presentation mode" which opens all the slides in order in VIM.
 
 ```bash
-./start
+./present
 ```
 
 ## Sources
